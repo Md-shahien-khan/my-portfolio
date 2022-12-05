@@ -22,7 +22,7 @@ section{
 .button{
     text-decoration: none;
     font-size: 20px;
-    background-color: orangered;
+    background-image: linear-gradient(rgb(255, 27, 27), rgb(225, 123, 85));
     color: white;
     padding: 10px 40px;
     border-radius: 6px;
@@ -30,4 +30,16 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.button2{
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(255, 27, 103), rgba(234, 52, 76, 0.974));
+    color: white;
+    padding: 10px 40px;
+    border-radius: 6px;}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
